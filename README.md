@@ -4,8 +4,8 @@ A simple photography portfolio website where visitors can upload flower photos, 
 
 ## Live Demo
 
-Once hosted on GitHub Pages, your site will be live at:
-`https://inderj166.github.io/floral-photography/`
+Once hosted on GitHub Pages, site will be live at:
+(https://inderj166.github.io/first-website-project/)`
 
 ## Features
 
